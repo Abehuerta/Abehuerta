@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abehuerta
 - 👀 I’m interested in developing websites!
-- 🌱 I’m currently learning Ruby on Rails
-- 💞️ I’m looking to collaborate on Ruby Gems!
+- 🌱 I’m currently learning React Apps!
+- 💞️ I’m looking to collaborate on Dapps!
 - 📫 How to reach me abrhuerta@protonmail.com
 
 <!---
